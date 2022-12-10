@@ -1,3 +1,4 @@
+
 import pygame
 from dino_runner.components.death_count import Death_count
 from dino_runner.components.obstacles.bird import Birds
